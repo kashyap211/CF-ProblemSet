@@ -13,7 +13,7 @@ int main(){
     }
     
     y=m/a;
-    if(n%a!=0){
+    if(m%a!=0){
         y++;
     }
     
